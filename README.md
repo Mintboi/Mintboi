@@ -57,7 +57,7 @@ Languages I'm in the process of learning:<br/>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mintboi&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mintboi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mintboi&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/> <br/>
 
 📫 Contact me via:<br/>
