@@ -15,7 +15,7 @@ Currently known languages:: <br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="36px" height="36px" />
 </a>
 <a href="https://www.python.org">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeiconspng.com%2Fimg%2F28402&psig=AOvVaw2eKdoB85PKFa_1sOhj3O0A&ust=1666990562435000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICJ3fOlgfsCFQAAAAAdAAAAABAE)" width="36px" height="36px" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-c-programming-basics-for-absolute-beginners-comput-2737568%2F&psig=AOvVaw2eKdoB85PKFa_1sOhj3O0A&ust=1666990562435000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICJ3fOlgfsCFQAAAAAdAAAAABAJ" width="36px" height="36px" />
 </a>
 
 Languages I'm in the process of learning:<br/>
