@@ -1,7 +1,7 @@
 # OverView
 A small overview of my proficiencies, confidence level in languages and Github stats
 
-🤹 I’m currently able to program in / use: <br/>
+Currently known languages:: <br/>
 <a href="https://www.javascript.com">
   <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="35px" height="35px" />
 </a>
@@ -14,11 +14,12 @@ A small overview of my proficiencies, confidence level in languages and Github s
 <a href="https://www.python.org">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="36px" height="36px" />
 </a>
-<a href="https://www.w3schools.com/css/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="36px" height="36px" />
+<a href="https://www.python.org">
+  <img src=["https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png](https://www.google.
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeiconspng.com%2Fimg%2F28402&psig=AOvVaw2eKdoB85PKFa_1sOhj3O0A&ust=1666990562435000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICJ3fOlgfsCFQAAAAAdAAAAABAE)" width="36px" height="36px" />
 </a>
 
-🌱 Trying / Tried to learn: <br/>
+Languages I'm in the process of learning:<br/>
 <a href="https://isocpp.org">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="36px" height="36px" />
 </a>
