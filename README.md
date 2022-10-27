@@ -52,12 +52,10 @@ A small overview of my proficiencies, confidence level in languages and Github s
   <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="36px" height="36px" />
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=supraaxdd&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supraaxdd&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mintboi&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mintboi&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/supraaxdd/truckersmp.py">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=supraaxdd&repo=truckersmp.py&theme=radical" />
-</a> <br/> <br/>
+<br/> <br/>
 
 📫 Contact me via:<br/>
-<img src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="16px" height="16px" /> Supra#6561
+<img src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="16px" height="16px" /> Mintboi#1772
