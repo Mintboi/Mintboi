@@ -15,7 +15,7 @@ Currently known languages:: <br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="36px" height="36px" />
 </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/">
-  <img src="https://en.wikipedia.org/wiki/File:C_Sharp_wordmark.svg" width="36px" height="36px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png" width="36px" height="36px" />
 </a>
 
 Languages I'm in the process of learning:<br/>
