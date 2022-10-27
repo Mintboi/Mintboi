@@ -52,7 +52,7 @@ Languages I'm in the process of learning:<br/>
   <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="36px" height="36px" />
 </a>
 <a href="https://unity.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/120px-Unity_2021.svg.png" width="70px" height="45px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/120px-Unity_2021.svg.png" width="72px" height="40px" />
 </a>
 
 
