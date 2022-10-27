@@ -14,8 +14,8 @@ Currently known languages:: <br/>
 <a href="https://www.python.org">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="36px" height="36px" />
 </a>
-<a href="https://www.python.org">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-c-programming-basics-for-absolute-beginners-comput-2737568%2F&psig=AOvVaw2eKdoB85PKFa_1sOhj3O0A&ust=1666990562435000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICJ3fOlgfsCFQAAAAAdAAAAABAJ" width="36px" height="36px" />
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/">
+  <img src="https://en.wikipedia.org/wiki/File:C_Sharp_wordmark.svg" width="36px" height="36px" />
 </a>
 
 Languages I'm in the process of learning:<br/>
