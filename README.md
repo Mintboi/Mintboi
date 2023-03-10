@@ -17,6 +17,9 @@ Currently known languages:: <br/>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png" width="36px" height="36px" />
 </a>
+<a href="https://www.java.com/en/">
+  <img src="https://dev.java/assets/images/java-logo-vert-blk.png" width="36px" height="36px" />
+</a>
 
 Languages I'm in the process of learning:<br/>
 <a href="https://isocpp.org">
@@ -25,9 +28,7 @@ Languages I'm in the process of learning:<br/>
 <a href="https://docs.microsoft.com/en-gb/dotnet/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" width="36px" height="36px" />
 </a>
-<a href="https://www.java.com/en/">
-  <img src="https://dev.java/assets/images/java-logo-vert-blk.png" width="36px" height="36px" />
-</a>
+
 
 🔧 Tools I use/used: <br/>
 <a href="https://www.postgresql.org">
