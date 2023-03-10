@@ -56,9 +56,8 @@ Languages I'm in the process of learning:<br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/120px-Unity_2021.svg.png" width="72px" height="36px" />
 </a>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mintboi&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mintboi&langs_count=8&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mintboi&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <br/> <br/>
 
 📫 Contact me via:<br/>
