@@ -1,64 +1,80 @@
-# OverView
-A small overview of my proficiencies, confidence level in languages and Github stats
 
-Currently known languages:: <br/>
-<a href="https://www.javascript.com">
-  <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="35px" height="35px" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="45px" height="45px" />
-</a>
-<a href="https://www.w3schools.com/css/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="35px" height="45px" />
-</a>
-<a href="https://www.python.org">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="36px" height="36px" />
-</a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png" width="36px" height="36px" />
-</a>
-<a href="https://www.java.com/en/">
-  <img src="https://dev.java/assets/images/java-logo-vert-blk.png" width="36px" height="36px" />
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:4D9BE6&height=220&section=header&text=Hey%20there!%20I%27m%20Martin%20Swift%20🚀&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
 
-Languages I'm in the process of learning:<br/>
-<a href="https://isocpp.org">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="36px" height="36px" />
-</a>
-<a href="https://docs.microsoft.com/en-gb/dotnet/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" width="36px" height="36px" />
-</a>
+<p align="center">
+  <a href="https://github.com/Mintboi"><img src="https://img.shields.io/github/followers/Mintboi?label=Follow&style=social"></a>
+  <a href="https://www.linkedin.com/in/martinpswift/"><img src="https://img.shields.io/badge/LinkedIn-Martin%20Swift-0e76a8?style=flat&logo=linkedin"></a>
+  <img src="https://komarev.com/ghpvc/?username=Mintboi&style=flat&color=lightgrey" alt="profile views"/>
+</p>
 
+<h3 align="center">Junior Software Engineer · DevOps Enthusiast · AWS Cost-Saver</h3>
 
-🔧 Tools I use/used: <br/>
-<a href="https://www.postgresql.org">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="36px" height="36px" />
-</a>
-<a href="https://pypi.org">
-  <img src="https://miro.medium.com/max/2632/1*8Zh-mzLnVMDsbvXdKsU4lw.png" width="64px" height="36px" />
-</a>
-<a href="https://www.npmjs.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" width="64px" height="30px" />
-</a>
-<a href="https://nodejs.org/en/">
-  <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" width="36px" height="40px" />
-</a>
-<a href="https://code.visualstudio.com">
-  <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="36px" height="36px" />
-</a>
-<a href="https://github.com/microsoft/terminal/">
-  <img src="https://user-images.githubusercontent.com/7389110/58056685-eec98200-7b59-11e9-99e0-fd327b3e22e4.png" width="36px" height="36px" />
-</a>
-<a href="https://git-scm.com">
-  <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="36px" height="36px" />
-</a>
-<a href="https://unity.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/120px-Unity_2021.svg.png" width="72px" height="36px" />
-</a>
+<hr/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mintboi&langs_count=8&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mintboi&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-<br/> <br/>
+### 🚀 About Me
+- 🛠 Recently rebuilt **5** CI/CD pipelines at **Smarttech247**; cut flaky deploys to **zero** in 3 sprints.
+- 💸 Trimmed AWS costs by **76 %** (~€80k/yr) with rightsizing & automated shutdown schedules.
+- 🤖 Delivered **12** SOAR playbooks that shrink Dark-Web alert triage from 2 h → **15 min**.
+- 🎓 B.Sc. (Hons) Software Development, Munster Technological University (2025, 2 : 1).
 
-📫 Contact me via:<br/>
-<img src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="16px" height="16px" /> Mintboi#1772 <br>
+---
+
+### 🧰 Tech Toolbox
+
+<table>
+  <tr>
+    <td align="center" width="70">Java<br/><img src="https://dev.java/assets/images/java-logo-vert-blk.png" width="40"/></td>
+    <td align="center" width="70">TypeScript<br/><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40"/></td>
+    <td align="center" width="70">Python<br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+    <td align="center" width="70">React<br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></td>
+    <td align="center" width="70">Quarkus<br/><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Quarkus_icon.svg" width="40"/></td>
+    <td align="center" width="70">AWS<br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/></td>
+    <td align="center" width="70">Terraform<br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/></td>
+    <td align="center" width="70">Docker<br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></td>
+  </tr>
+</table>
+
+<details>
+  <summary>🗄️ More&nbsp;Stack</summary>
+  <br/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js&logoColor=green"/>
+  <img src="https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=java&logoColor=white"/>
+</details>
+
+---
+
+### 📈 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mintboi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mintboi&layout=compact&langs_count=8&theme=tokyonight" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mintboi&theme=tokyonight" height="140"/>
+</p>
+
+---
+
+### 🏆 Highlights & Achievements
+- 🗂 **CI/CD Owner:** Designed IaC-driven pipelines for multi-tenant SaaS on ECS + Terraform.
+- 🛡 **Security Automation:** Built OpenAI-powered natural-language query assistant for SOC analysts.
+- 🌐 **AWS Homelab:** Experimenting with Kubernetes, Argo CD & cost-efficient infra in my spare time.
+
+---
+
+### 📬 Get in Touch
+<a href="mailto:martinpswift@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/martinpswift/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://discord.com/users/251540521260998656"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D9BE6,100:6E40C9&height=140&section=footer"/>
+</p>
