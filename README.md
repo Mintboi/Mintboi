@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Mintboi"><img src="https://img.shields.io/github/followers/Mintboi?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/martinpswift/"><img src="https://img.shields.io/badge/LinkedIn-Martin%20Swift-0e76a8?style=flat&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/martin-swift/"><img src="https://img.shields.io/badge/LinkedIn-Martin%20Swift-0e76a8?style=flat&logo=linkedin"></a>
   <img src="https://komarev.com/ghpvc/?username=Mintboi&style=flat&color=lightgrey" alt="profile views"/>
 </p>
 
@@ -59,7 +59,6 @@
 <a href="https://github.com/streak-stats">
   <img height="140em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mintboi&theme=tokyonight" />
 </a>
----
 
 ### Highlights & Achievements
 - Architected *TaskLine* end‑to‑end: microservice backend (Rust), React front‑end, Terraform IaC and CI/CD on GitHub Actions.
