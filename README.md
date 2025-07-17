@@ -50,14 +50,15 @@
 ---
 
 ### My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mintboi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mintboi&layout=compact&langs_count=8&theme=tokyonight" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mintboi&theme=tokyonight" height="140"/>
-</p>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Mintboi&show_icons=true&include_all_commits=true&count_private=true&line_height=24&number_format=long&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mintboi&layout=compact&langs_count=8&theme=tokyonight" />
+</a>
+<a href="https://github.com/streak-stats">
+  <img height="140em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mintboi&theme=tokyonight" />
+</a>
 ---
 
 ### Highlights & Achievements
