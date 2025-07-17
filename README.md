@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:4D9BE6&height=220&section=header&text=Hey%20there!%20I%27m%20Martin%20Swift%20🚀&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:4D9BE6&height=220&section=header&text=Hey%20there!%20I%27m%20Martin%20Swift&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -9,19 +8,19 @@
   <img src="https://komarev.com/ghpvc/?username=Mintboi&style=flat&color=lightgrey" alt="profile views"/>
 </p>
 
-<h3 align="center">Junior Software Engineer · DevOps Enthusiast · AWS Cost-Saver</h3>
+<h3 align="center">Junior Software Engineer · Cloud & AI Developer</h3>
 
 <hr/>
 
-### 🚀 About Me
-- 🛠 Recently rebuilt **5** CI/CD pipelines at **Smarttech247**; cut flaky deploys to **zero** in 3 sprints.
-- 💸 Trimmed AWS costs by **76 %** (~€80k/yr) with rightsizing & automated shutdown schedules.
-- 🤖 Delivered **12** SOAR playbooks that shrink Dark-Web alert triage from 2 h → **15 min**.
-- 🎓 B.Sc. (Hons) Software Development, Munster Technological University (2025, 2 : 1).
+### About Me
+- B.Sc. (Hons) Software Development, Munster Technological University (2025, 2 : 1).
+- Thesis project **TaskLine**: AI‑driven Agile collaboration platform built with Rust, React, AWS and Terraform; load‑tested to 2,000 concurrent users.
+- Passionate about full‑stack development, DevOps and cost‑efficient cloud architectures.
+- Actively contributing to open‑source projects and seeking a graduate role in cloud or AI engineering.
 
 ---
 
-### 🧰 Tech Toolbox
+### Tech Toolbox
 
 <table>
   <tr>
@@ -29,7 +28,7 @@
     <td align="center" width="70">TypeScript<br/><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40"/></td>
     <td align="center" width="70">Python<br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
     <td align="center" width="70">React<br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></td>
-    <td align="center" width="70">Quarkus<br/><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Quarkus_icon.svg" width="40"/></td>
+    <td align="center" width="70">Rust<br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40"/></td>
     <td align="center" width="70">AWS<br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/></td>
     <td align="center" width="70">Terraform<br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/></td>
     <td align="center" width="70">Docker<br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></td>
@@ -37,7 +36,7 @@
 </table>
 
 <details>
-  <summary>🗄️ More&nbsp;Stack</summary>
+  <summary>More&nbsp;Stack</summary>
   <br/>
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -50,7 +49,7 @@
 
 ---
 
-### 📈 My GitHub Stats
+### My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mintboi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mintboi&layout=compact&langs_count=8&theme=tokyonight" height="165"/>
@@ -61,14 +60,14 @@
 
 ---
 
-### 🏆 Highlights & Achievements
-- 🗂 **CI/CD Owner:** Designed IaC-driven pipelines for multi-tenant SaaS on ECS + Terraform.
-- 🛡 **Security Automation:** Built OpenAI-powered natural-language query assistant for SOC analysts.
-- 🌐 **AWS Homelab:** Experimenting with Kubernetes, Argo CD & cost-efficient infra in my spare time.
+### Highlights & Achievements
+- Architected *TaskLine* end‑to‑end: microservice backend (Rust), React front‑end, Terraform IaC and CI/CD on GitHub Actions.
+- Designed an AWS cost‑simulation model for thesis demonstrating 70 % savings via rightsizing and on‑demand scaling.
+- Served as class representative for two years, facilitating feedback loops between 30+ students and faculty.
 
 ---
 
-### 📬 Get in Touch
+### Get in Touch
 <a href="mailto:martinpswift@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/martinpswift/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://discord.com/users/251540521260998656"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
