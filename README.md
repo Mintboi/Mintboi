@@ -13,7 +13,7 @@
 <hr/>
 
 ### About Me
-- B.Sc. (Hons) Software Development, Munster Technological University (2025, 2 : 1).
+- B.Sc. (Hons) Software Development, Munster Technological University (2025, 1 : 1).
 - Thesis project **TaskLine**: AI‑driven Agile collaboration platform built with Rust, React, AWS and Terraform; load‑tested to 2,000 concurrent users.
 - Passionate about full‑stack development, DevOps and cost‑efficient cloud architectures.
 - Actively contributing to open‑source projects and seeking a graduate role in cloud or AI engineering.
